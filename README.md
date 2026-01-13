@@ -1,4 +1,3 @@
-![Astro Photo Grid Preview](./public/cover.png)
 
 # Astro Photo Grid
 
