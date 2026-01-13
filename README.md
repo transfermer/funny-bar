@@ -21,4 +21,3 @@ A minimal, single-page photo gallery for [Astro](https://astro.build/). See the 
 
 - CSS-only justified gallery layout from [Helmut Wandl](https://medium.com/@ehtmlu/css-image-grid-gallery-4ec8824560a1) and [SmolCSS](https://smolcss.dev/#smol-aspect-ratio-gallery)
 - [Fancybox](https://fancyapps.com/fancybox/) lightbox
-- All demo images from [Unsplash](https://unsplash.com/)
